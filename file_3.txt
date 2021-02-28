@@ -1,2 +1,0 @@
-third file
-Edited file3, after few commits in develop and develop/feature
